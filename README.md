@@ -2,10 +2,10 @@
 
 - [ ] How to include javascript
 - [ ] Repeat code examples
-  - Expressions
-  - Operators
-  - Variables
-  - Alert, Prompt, Confirm
+  - Expressions and operators
+  - Console.log
+  - Declaring variables and assigning values to them
+  - Alert, Prompt
   - DOM
-- [ ] How to create comments
+- [ ] How to create a one line comments
 - [ ] Reading error messages
