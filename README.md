@@ -1,6 +1,6 @@
 # Hello, world
 
-- [ ] How to include javascript
+- [ ] How to include javascript in web pages
 - [ ] Repeat code examples
   - Expressions and operators
   - Console.log
