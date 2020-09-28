@@ -13,6 +13,9 @@ function startquiz() {
         num1 = Math.floor(Math.random() * 10)
         num2 = Math.floor(Math.random() * 10)
     }
+    else if (y == null){
+        alert("GAME OVER")
+    }
     else {
         alert("Fel svaret är " + x)
         num1 = Math.floor(Math.random() * 10)
